@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohakhalid
 - 👀 I'm intrigued by data, especially when it comes to analytics/insights, data engineering, or data science.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently exploring data analysis with python.
+- 💞️ I’m looking to collaborate on various projects related to my field.
 - 📫 How to reach me ...
 
 <!---
